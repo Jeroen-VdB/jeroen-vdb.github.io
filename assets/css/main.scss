@@ -1,0 +1,19 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+
+@charset "utf-8";
+
+/* ==========================================================================
+   CUSTOMIZED Dark skin
+   ========================================================================== */
+
+/* Colors */
+$background-color: #1F1F1F !default;
+$text-color: #eaeaea !default;
+$primary-color: #8BC34A !default;
+$link-color: mix($primary-color, $text-color, 80%) !default;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
