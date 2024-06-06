@@ -19,9 +19,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Jeroen's blog delves into Azure Application Development, Integration, Architecture, and explores various innovative topics within the sphere of technology.
 twitter_username: JeroenVdB_96
 github_username: Jeroen-VdB
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark"
+minimal_mistakes_skin_dark: "dark"
 search: true
-logo: "/assets/images/logo.png"
+logo: "/assets/images/logo-light.png"
+logo_dark: "/assets/images/logo-dark.png"
 masthead_title: ""
 
 # Build settings

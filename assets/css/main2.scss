@@ -10,15 +10,20 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: white !default;
-$footer-background-color: white !default;
-$text-color: black !default;
-$primary-color: black !default;
-$link-color: black !default;
+$background-color: black !default;
+$footer-background-color: black !default;
+$text-color: white !default;
+$primary-color: white !default;
+$link-color: white !default;
 // $link-color: mix($primary-color, $text-color, 80%) !default;
 
 a.site-title {
    visibility: hidden;
+}
+
+.pagination li a.current, .pagination li a.current.disabled {
+   color: black !important;
+   background: white !important;
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
