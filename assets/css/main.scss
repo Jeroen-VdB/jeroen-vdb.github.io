@@ -16,9 +16,25 @@ $text-color: black !default;
 $primary-color: black !default;
 $link-color: black !default;
 // $link-color: mix($primary-color, $text-color, 80%) !default;
+$base00: #1f1f1f !default;
 
 a.site-title {
    visibility: hidden;
+}
+
+.btn--twitter {
+   background-color: black !important;
+   color: white !important;
+}
+
+.btn--linkedin {
+   background-color: black !important;
+   color: white !important;
+}
+
+.btn--facebook {
+   background-color: black !important;
+   color: white !important;
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
