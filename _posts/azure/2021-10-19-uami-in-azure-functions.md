@@ -1,5 +1,7 @@
 ---
 title: "User Assigned Managed Identity in Azure Functions with Azure.Identity"
+description: "Exception while executing function: MyFunction ManagedIdentityCredential authentication failed: No MSI found for specified ClientId/ResourceId.    
+Status: 400 (Bad Request)"
 categories:
   - Azure
   - Issues
