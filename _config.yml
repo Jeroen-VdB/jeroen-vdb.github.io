@@ -25,7 +25,11 @@ search: true
 logo: "/assets/images/logo-light.png"
 logo_dark: "/assets/images/logo-dark.png"
 masthead_title: ""
+
+# Search Analytics
 google_site_verification: "ppL7-ilghb4AULdTNpY9-a3O3GCP1Ft7Jgpbyj7S270"
+bing_site_verification: "ABBF1DB9616E4DB96D5B21ACB69FB421"
+
 
 # Build settings
 markdown: kramdown
