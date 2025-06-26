@@ -1,4 +1,6 @@
 ---
+title: "Comparing Azure Functions and Logic Apps Performance"
+description: "Performance comparison showing that Stateless Logic Apps (Standard) match Azure Functions speed, while Stateful Logic Apps add approximately one second of latency to integration flows."
 categories:
   - Azure
   - TIL

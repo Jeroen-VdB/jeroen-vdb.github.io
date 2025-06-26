@@ -1,5 +1,6 @@
 ---
 title: "Get Logic App CallbackURL in Bicep"
+description: "Learn how to retrieve the CallbackURL of an HTTP triggered Logic App in Bicep scripts using the listCallbackURL function."
 categories:
   - Azure
   - TIL

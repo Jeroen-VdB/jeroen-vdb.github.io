@@ -1,5 +1,6 @@
 ---
 title: "Unit Tests in a .NET 6 project with Azure Pipelines DotNetCoreCLI@2"
+description: "Fix the 'Microsoft.AspNetCore.App version 5.0.0 was not found' error when running .NET 6 unit tests in Azure Pipelines by adding proper restore and test steps."
 categories:
   - Azure
   - Issues

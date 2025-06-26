@@ -1,5 +1,6 @@
 ---
 title: "Beware of nesting too many Bicep/ARM modules"
+description: "Learn about Azure deployment limitations when nesting too many Bicep/ARM modules and how to avoid hitting the deployment limit."
 categories:
   - Azure
   - TIL

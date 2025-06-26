@@ -1,5 +1,6 @@
 ---
 title: "Formatting Logging in .NET 5 for AKS Log Analytics"
+description: "Learn how to improve logging readability in Azure Kubernetes Service (AKS) by configuring console log formatting in .NET 5 applications for better monitoring and debugging."
 categories:
   - Azure
   - TIL

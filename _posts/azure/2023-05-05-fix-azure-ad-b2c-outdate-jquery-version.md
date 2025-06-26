@@ -1,5 +1,6 @@
 ---
 title: "Fix Azure AD B2C outdated jQuery version"
+description: "Resolve security vulnerabilities from outdated jQuery in Azure AD B2C by updating ContentDefinition DataUri values in custom policies to use the latest page layout versions."
 categories:
   - Azure
   - Issue

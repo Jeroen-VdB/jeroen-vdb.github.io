@@ -1,5 +1,6 @@
 ---
-title: "Azure AD B2C with GitHub as Identity Provider returning ‘Error: redirect_uri_mismatch’"
+title: "Azure AD B2C with GitHub as Identity Provider returning 'Error: redirect_uri_mismatch'"
+description: "Solve the redirect_uri_mismatch error when using GitHub as an identity provider in Azure AD B2C by ensuring the Authorization callback URL is in all lowercase."
 categories:
   - Azure
   - Issue

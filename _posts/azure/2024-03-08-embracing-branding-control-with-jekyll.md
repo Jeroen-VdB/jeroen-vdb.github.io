@@ -1,5 +1,6 @@
 ---
 title: "Embracing Branding Control with Jekyll"
+description: "Moving from Medium to Jekyll for better branding control and flexibility in my freelance journey. Learn how to set up a Jekyll blog with GitHub Pages and the Minimal Mistakes theme."
 categories:
   - Blog
 ---

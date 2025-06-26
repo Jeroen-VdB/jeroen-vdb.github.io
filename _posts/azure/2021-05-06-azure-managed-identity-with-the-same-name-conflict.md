@@ -1,5 +1,6 @@
 ---
 title: "Azure Managed Identity with the same name conflict"
+description: "Resolving Azure Managed Identity conflicts when moving identities between resource groups. Learn how to fix the 'does not have access to identity' error in API Management."
 categories:
   - Azure
   - Issues

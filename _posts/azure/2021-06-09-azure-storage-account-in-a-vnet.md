@@ -1,5 +1,6 @@
 ---
 title: "Azure Storage Account in a Virtual Network: The response for resource had empty or invalid content"
+description: "Fix the 'empty or invalid content' error when deploying Azure Storage Accounts with virtual network rules using Bicep. Learn about the defaultAction property requirement."
 categories:
   - Azure
   - Issues

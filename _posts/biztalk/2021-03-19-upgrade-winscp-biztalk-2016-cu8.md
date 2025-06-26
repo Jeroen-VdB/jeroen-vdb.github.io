@@ -1,5 +1,6 @@
 ---
 title: "Upgrade WinSCP when installing BizTalk 2016 CU8"
+description: "Fix SFTP receive location failures after BizTalk 2016 CU8 installation by updating WinSCP to the latest version and configuring assembly binding redirects."
 categories:
   - BizTalk
   - Issues

@@ -1,4 +1,6 @@
 ---
+title: "Azure Alert to Teams using Email Notification"
+description: "Compare two methods for sending Azure alerts to Microsoft Teams: using Logic Apps vs direct email notifications. Learn the pros and cons of each approach."
 categories:
   - Azure
   - TIL

@@ -1,5 +1,6 @@
 ---
-title: "Validating a JWT token from Auth0 in Azure APIM"
+title: "Validating a JWT token from Auth0 in Azure APIM"
+description: "Step-by-step guide to implement JWT token validation from Auth0 in Azure API Management using the Client Credentials Flow for secure machine-to-machine authentication."
 categories:
   - Azure
   - TIL
