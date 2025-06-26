@@ -17,6 +17,8 @@ title: InnoJero
 email: jeroen@innojero.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jeroen's blog delves into Azure Application Development, Integration, Architecture, and explores various innovative topics within the sphere of technology.
+url: "https://innojero.com"
+baseurl: ""
 twitter_username: JeroenVdB_96
 github_username: Jeroen-VdB
 minimal_mistakes_skin: "dark"
@@ -38,7 +40,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: CET # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Brussels # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 date_format: "%F"
 
 include:
