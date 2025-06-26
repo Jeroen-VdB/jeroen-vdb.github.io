@@ -37,5 +37,14 @@ a.site-title {
    color: white !important;
 }
 
+// Remove underlines from blog titles in list views
+.archive__item-title a {
+   text-decoration: none !important;
+}
+
+.archive__item-title a:hover {
+   text-decoration: none !important;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
